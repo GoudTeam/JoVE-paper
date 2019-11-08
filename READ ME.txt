@@ -1,6 +1,0 @@
-READ_ME
-
-1) Download both files ("Script demo.r" and "DemoDataset.zip")
-2) Create one "Plots" folder
-3) Open the code and change the path of "DatasetPath" and "PlotPath"
-4) Run the code with R or R studio
